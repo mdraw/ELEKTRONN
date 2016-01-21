@@ -1,9 +1,9 @@
-.. image:: http://anaconda.org/elektronn/elektronn/badges/version.svg
-   :target: http://anaconda.org/elektronn/elektronn
-.. image:: http://anaconda.org/elektronn/elektronn/badges/installer/conda.svg
-   :target: http://conda.anaconda.org/elektronn
-.. image:: http://anaconda.org/elektronn/elektronn/badges/build.svg
-   :target: http://anaconda.org/elektronn/elektronn/builds
+.. image:: http://anaconda.org/mdraw/elektronn/badges/version.svg
+   :target: http://anaconda.org/mdraw/elektronn
+.. image:: http://anaconda.org/mdraw/elektronn/badges/installer/conda.svg
+   :target: http://conda.anaconda.org/mdraw
+.. image:: http://anaconda.org/mdraw/elektronn/badges/build.svg
+   :target: http://anaconda.org/mdraw/elektronn/builds
 .. image:: https://travis-ci.org/mdraw/ELEKTRONN.svg?branch=master
    :target: https://travis-ci.org/mdraw/ELEKTRONN
 .. image:: https://badge.fury.io/py/elektronn.svg
