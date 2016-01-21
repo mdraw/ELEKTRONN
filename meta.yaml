@@ -1,10 +1,9 @@
 package:
   name: elektronn
-  version: 1.0.3
+  version: git
 
 source:
-    git_url: https://github.com/ELEKTRONN/ELEKTRONN.git
-    git_rev: v1.0.3
+    git_url: https://github.com/mdraw/ELEKTRONN.git
 
 requirements:
   build:
