@@ -1,4 +1,4 @@
-import elektronn.net.*
-import elektronn.training.*
+from elektronn.net.convlayer2d import *
+from elektronn.training.warping import *
 
 assert 1 == 1
