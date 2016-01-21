@@ -1,3 +1,5 @@
+**PLEASE GO TO https://github.com/ELEKTRONN/ELEKTRONN INSTEAD. Ignore this repo, it is only for highly experimental changes.**
+
 .. image:: http://anaconda.org/mdraw/elektronn/badges/version.svg
    :target: http://anaconda.org/mdraw/elektronn
 .. image:: http://anaconda.org/mdraw/elektronn/badges/installer/conda.svg
